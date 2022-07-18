@@ -160,33 +160,3 @@ body {
   .aeus67Ac{
     color: #9b00f5;
   }
-  
-  @media only screen and (max-width: 600px) {
-    .title-juca{
-        color: #9b00f5;
-        border-top: 8px solid;
-        font-size: 35px;
-        border-bottom: 8px solid;
-        border-color: #9b00f5;
-    }
-    .title-marvel {
-        font-weight: bolder;
-        color: #020103;
-        letter-spacing: -6.7px;
-        text-transform: uppercase;
-        font-size: 37px;
-        padding: 0 16px;
-        background: #9b00f5;
-    }
-      
-      .title-thanos{
-        font-weight: bolder;
-        color: #020103;
-        letter-spacing: -6.7px;
-        text-transform: uppercase;
-        padding: 0 16px;
-        background: #9b00f5;
-        margin-bottom: 1px;
-    }
-    
-  }
