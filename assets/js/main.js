@@ -6,12 +6,14 @@ function logar(){
     if (login == 'felipe' && senha == '123') {window.location.href='/spec/';} 
 
     else if (login == 'allyson' && senha == '4469delas') {window.location.href='/spec/';} 
-
-    else if (login == 'juca' && senha == 'j') {window.location.href='/spec/';}
+    
+    else if (login == 'coe' && senha == 'coe') {window.location.href='/spec/';} 
+    
+    else if (login == 'juca' && senha == 'jj') {window.location.href='/spec/';}
 
     else if(login == 'daga17' && senha == 'loja10506'){window.location.href='/spec/';}
 
-    else if(login == 'juca' && senha == '12'){window.location.href='/spec/';}
+    else if(login == 'juca' && senha == '123'){window.location.href='/spec/';}
 
     else if ((login == ""  && senha == "") || (login == "") || (senha == ""))
 
