@@ -11,7 +11,7 @@ function logar(){
 
     else if(login == 'daga17' && senha == 'loja10506'){window.location.href='/spec/';}
 
-    else if(login == 'admin' && senha == 'admin'){window.location.href='/spec/';}
+    else if(login == 'juca' && senha == '123'){window.location.href='/spec/';}
 
     else if ((login == ""  && senha == "") || (login == "") || (senha == ""))
 
