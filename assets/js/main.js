@@ -10,6 +10,8 @@ function logar(){
     else if (login == 'coe' && senha == 'coe') {window.location.href='/spec/';} 
     
     else if (login == 'juca' && senha == 'jj') {window.location.href='/spec/';}
+    
+    else if (login == 'aquiles' && senha == 'aquiles123') {window.location.href='/spec/';}
 
     else if(login == 'daga17' && senha == 'loja10506'){window.location.href='/spec/';}
 
